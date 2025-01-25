@@ -3,3 +3,13 @@ Hey there! I’m Charan, a final-year Artificial Intelligence and Machine Learni
 
 # LinkedIn
 https://www.linkedin.com/in/charanpr/
+
+# 💻 Tech Stack:
+
+Languages: C, C++, Java, Python, HTML, CSS, JavaScript, SQL, R Programming
+Web Technologies: React, Node.js, Express.js, Flask, Bootstrap, Django
+Databases: MySQL, MongoDB
+Cloud & Tools: Google Cloud Platform (GCP), Google Vertex AI
+Frameworks & Libraries: OpenCV, TensorFlow, scikit-learn, Keras
+Softwares: Anaconda, Figma, Blender
+AI/ML Technologies: Machine Learning, Deep Learning, Large Language Models (LLMs)
