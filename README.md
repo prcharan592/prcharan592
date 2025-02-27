@@ -44,7 +44,7 @@ My journey involves:
   ![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 </details>
 
-<details>
+<details open>
   <summary><b>Web Technologies</b></summary>
   <br>
   
@@ -55,7 +55,7 @@ My journey involves:
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 </details>
 
-<details>
+<details open>
   <summary><b>Databases</b></summary>
   <br>
   
@@ -63,7 +63,7 @@ My journey involves:
   ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 </details>
 
-<details>
+<details open>
   <summary><b>Cloud & Tools</b></summary>
   <br>
   
@@ -71,7 +71,7 @@ My journey involves:
   ![Google Vertex AI](https://img.shields.io/badge/Google_Vertex_AI-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 </details>
 
-<details>
+<details open>
   <summary><b>Frameworks & Libraries</b></summary>
   <br>
   
@@ -81,7 +81,7 @@ My journey involves:
   ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=keras&logoColor=white)
 </details>
 
-<details>
+<details open>
   <summary><b>Software Tools</b></summary>
   <br>
   
@@ -90,7 +90,7 @@ My journey involves:
   ![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 </details>
 
-<details>
+<details open>
   <summary><b>AI/ML Technologies</b></summary>
   <br>
   
@@ -146,19 +146,6 @@ My journey involves:
       </td>
     </tr>
   </table>
-</div>
-
----
-
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40"> GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=charanpr&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charanpr&layout=compact&langs_count=7&theme=radical"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=charanpr&theme=radical" alt="GitHub Streak"/>
 </div>
 
 ---
