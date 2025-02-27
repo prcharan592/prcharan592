@@ -1,7 +1,6 @@
 # <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+There!+👋;I'm+Charan;AI+%26+ML+Enthusiast&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Typing Animation">
 
 <div align="center">
-  <img src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" width="100" height="100" alt="AI Animation">
   <h2>AI & ML Engineer | Web Developer | Problem Solver</h2>
 </div>
 
