@@ -1,5 +1,7 @@
 # <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+There!+👋;I'm+Charan;AI+%26+ML+Enthusiast&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Typing Animation">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header" width="100%"/>
+
 <div align="center">
   <h2>AI & ML Engineer | Web Developer | Problem Solver</h2>
 </div>
@@ -21,6 +23,8 @@
 
 ## <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="40"> About Me
 
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
 I'm **Charan**, a final-year **Artificial Intelligence and Machine Learning** student passionate about crafting innovative solutions. I thrive in the AI ecosystem, developing intelligent systems with Python and exploring cutting-edge technologies like **Large Language Models** and computer vision with **OpenCV**.
 
 My journey involves:
@@ -32,6 +36,8 @@ My journey involves:
 ---
 
 ## <img src="https://media.giphy.com/media/uhQuegHFqkVYuFMXMQ/giphy.gif" width="40"> Tech Stack
+
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400" align="right">
 
 <details open>
   <summary><b>Languages</b></summary>
@@ -133,6 +139,7 @@ My journey involves:
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="300" alt="Coding">
   <h3>Let's connect and build something amazing together! 😄</h3>
+  <img src="https://github-readme-stats.vercel.app/api?username=prcharan592&show_icons=true&theme=radical" alt="GitHub Stats">
 </div>
 
 ---
