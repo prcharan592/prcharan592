@@ -139,7 +139,6 @@ My journey involves:
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="300" alt="Coding">
   <h3>Let's connect and build something amazing together! 😄</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=prcharan592&show_icons=true&theme=radical" alt="GitHub Stats">
 </div>
 
 ---
