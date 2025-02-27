@@ -1,8 +1,14 @@
 # <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+There!+👋;I'm+Charan;AI+%26+ML+Enthusiast&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Typing Animation">
 
+<div align="center">
+  <img src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" width="100" height="100" alt="AI Animation">
+  <h2>AI & ML Engineer | Web Developer | Problem Solver</h2>
+</div>
+
 <p align="center">
-  <a href="mailto:Prcharan592@gmail.com"><img src="https://img.shields.io/badge/Email-Prcharan592%40gmail.com-blue?style=flat-square&logo=gmail"></a>
-  <a href="https://www.linkedin.com/in/charanpr/"><img src="https://img.shields.io/badge/LinkedIn-Charan-blue?style=flat-square&logo=linkedin"></a>
+  <a href="mailto:Prcharan592@gmail.com"><img src="https://img.shields.io/badge/Email-Prcharan592%40gmail.com-blue?style=for-the-badge&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/charanpr/"><img src="https://img.shields.io/badge/LinkedIn-Charan-blue?style=for-the-badge&logo=linkedin"></a>
+  <img src="https://komarev.com/ghpvc/?username=charanpr&style=flat-square&color=brightgreen" alt="Profile views">
 </p>
 
 ---
@@ -97,50 +103,12 @@ My journey involves:
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> What I Do
 
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">AI Solutions</h3>
-        <p align="center">
-          <a href="#" target="_blank">
-            <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="100%" alt="AI Solutions"/>
-          </a>
-        </p>
-        <p>Develop AI-driven solutions using Python and cutting-edge technologies</p>
-      </td>
-      <td width="50%">
-        <h3 align="center">Web Development</h3>
-        <p align="center">
-          <a href="#" target="_blank">
-            <img src="https://media.giphy.com/media/ZgTR3UQ9XAWDvqy9jv/giphy.gif" width="100%" alt="Web Development"/>
-          </a>
-        </p>
-        <p>Build responsive web applications with React, Flask, and Node.js</p>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <h3 align="center">Machine Learning</h3>
-        <p align="center">
-          <a href="#" target="_blank">
-            <img src="https://media.giphy.com/media/gutZ5Pm6Xl62eIf5RZ/giphy.gif" width="100%" alt="Machine Learning"/>
-          </a>
-        </p>
-        <p>Create predictive models and applications like facial recognition systems</p>
-      </td>
-      <td width="50%">
-        <h3 align="center">Cloud Engineering</h3>
-        <p align="center">
-          <a href="#" target="_blank">
-            <img src="https://media.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif" width="100%" alt="Cloud Engineering"/>
-          </a>
-        </p>
-        <p>Architect secure and scalable solutions using Google Cloud Platform</p>
-      </td>
-    </tr>
-  </table>
-</div>
+- 🧠 **AI-driven Solutions**: Develop intelligent systems using Python and cutting-edge technologies
+- 🌐 **Web Applications**: Build responsive applications with React, Flask, and Node.js
+- 📊 **Predictive Models**: Create machine learning models for real-world applications
+- 🔍 **Computer Vision**: Implement facial recognition systems and image processing applications
+- 💬 **NLP & LLMs**: Work with Large Language Models and natural language processing
+- ☁️ **Cloud Engineering**: Architect secure and scalable solutions using Google Cloud Platform
 
 ---
 
