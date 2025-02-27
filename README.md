@@ -29,8 +29,6 @@ My journey involves:
 - ☁️ Architecting secure solutions with **Node.js** and **GCP**
 - 🧠 Implementing facial recognition systems and AI-driven chatbots
 
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500" align="right" alt="Coding Animation">
-
 ---
 
 ## <img src="https://media.giphy.com/media/uhQuegHFqkVYuFMXMQ/giphy.gif" width="40"> Tech Stack
